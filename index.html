@@ -52,12 +52,12 @@
       }
 
       var buildUrl = "Build";
-      var loaderUrl = buildUrl + "/20260305-191518-73dd1ee.loader.js";
+      var loaderUrl = buildUrl + "/local-20260305-194024-e6e3fea4-local.loader.js";
       var config = {
         arguments: [],
-        dataUrl: buildUrl + "/20260305-191518-73dd1ee.data",
-        frameworkUrl: buildUrl + "/20260305-191518-73dd1ee.framework.js",
-        codeUrl: buildUrl + "/20260305-191518-73dd1ee.wasm",
+        dataUrl: buildUrl + "/local-20260305-194024-e6e3fea4-local.data",
+        frameworkUrl: buildUrl + "/local-20260305-194024-e6e3fea4-local.framework.js",
+        codeUrl: buildUrl + "/local-20260305-194024-e6e3fea4-local.wasm",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "CodeHabit",
         productName: "CandyGame",
@@ -103,13 +103,9 @@
 
 
       } else {
-        // Desktop style: fill viewport (avoid fixed 960x600 layout differences).
-        canvas.style.width = "100vw";
-        canvas.style.height = "100vh";
-        var footer = document.querySelector("#unity-footer");
-        if (footer) {
-          footer.style.display = "none";
-        }
+        // Desktop style: Render the game canvas in a window that can be maximized to fullscreen:
+        canvas.style.width = "960px";
+        canvas.style.height = "600px";
       }
 
       document.querySelector("#unity-loading-bar").style.display = "block";
