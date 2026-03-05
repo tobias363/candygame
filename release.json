@@ -1,9 +1,9 @@
 {
-    "releaseVersion": "fullsnapshot-20260305-200115-local",
-    "releaseCommit": "workspace",
-    "builtAtUtc": "2026-03-05T20:03:49.6783700Z",
+    "releaseVersion": "fullsnapshot-20260305-220154-staging",
+    "releaseCommit": "626e806a",
+    "builtAtUtc": "2026-03-05T22:05:44.8803280Z",
     "unityVersion": "6000.3.10f1",
     "bundleVersion": "0.1",
     "productName": "CandyGame",
-    "buildSizeBytes": 60946215
+    "buildSizeBytes": 60965355
 }
