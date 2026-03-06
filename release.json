@@ -1,7 +1,7 @@
 {
-    "releaseVersion": "20260306-091936-e5d9518f",
-    "releaseCommit": "e5d9518f",
-    "builtAtUtc": "2026-03-06T09:21:33.4349380Z",
+    "releaseVersion": "20260306-092316-bae94b2a",
+    "releaseCommit": "bae94b2a",
+    "builtAtUtc": "2026-03-06T09:25:26.0947880Z",
     "unityVersion": "6000.3.10f1",
     "bundleVersion": "0.1",
     "productName": "CandyGame",
