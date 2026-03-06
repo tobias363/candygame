@@ -1,9 +1,9 @@
 {
-    "releaseVersion": "fullsnapshot-20260305-233602-staging",
-    "releaseCommit": "796a90be",
-    "builtAtUtc": "2026-03-05T23:36:12.8436540Z",
+    "releaseVersion": "20260306-090827-7f720290",
+    "releaseCommit": "7f720290",
+    "builtAtUtc": "2026-03-06T09:10:44.1185240Z",
     "unityVersion": "6000.3.10f1",
     "bundleVersion": "0.1",
     "productName": "CandyGame",
-    "buildSizeBytes": 86760672
+    "buildSizeBytes": 61022822
 }
