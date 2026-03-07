@@ -1,9 +1,9 @@
 {
-    "releaseVersion": "20260306-151039-d970dfa6",
-    "releaseCommit": "d970dfa6",
-    "builtAtUtc": "2026-03-06T15:14:09.6236330Z",
+    "releaseVersion": "20260307-211553-715687f6",
+    "releaseCommit": "715687f6",
+    "builtAtUtc": "2026-03-07T21:18:12.3187370Z",
     "unityVersion": "6000.3.10f1",
     "bundleVersion": "0.1",
     "productName": "CandyGame",
-    "buildSizeBytes": 61159894
+    "buildSizeBytes": 97685613
 }
